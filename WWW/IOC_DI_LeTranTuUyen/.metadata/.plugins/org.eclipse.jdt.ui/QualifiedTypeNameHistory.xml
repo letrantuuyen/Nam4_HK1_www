@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.HelloWorld"/>
+    <fullyQualifiedTypeName name="iuh.fit.Employee"/>
+    <fullyQualifiedTypeName name="iuh.fit.Address"/>
+    <fullyQualifiedTypeName name="iuh.fit.FortuneService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="iuh.fit.Coach"/>
+</qualifiedTypeNameHistroy>

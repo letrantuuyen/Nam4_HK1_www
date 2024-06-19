@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;Product_WWW&apos;&#x0D;&#x0A;- Original project: &apos;web_student&apos;&#x0D;&#x0A;- Destination element: &apos;Product_WWW&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     mssql-jdbc-8.2.2.jre13.jar&#x0D;&#x0A;     javax.servlet.jsp.jstl-api-1.2.1.jar&#x0D;&#x0A;     mssql-jdbc-8.2.2.jre11.jar&#x0D;&#x0A;     mssql-jdbc-8.2.2.jre8.jar&#x0D;&#x0A;     javax.servlet.jsp.jstl-1.2.1.jar" description="Copy files" element1="mssql-jdbc-8.2.2.jre13.jar" element2="javax.servlet.jsp.jstl-api-1.2.1.jar" element3="mssql-jdbc-8.2.2.jre11.jar" element4="mssql-jdbc-8.2.2.jre8.jar" element5="javax.servlet.jsp.jstl-1.2.1.jar" files="5" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1694574389436" target="/Product_WWW" units="0" version="1.0"/>
+</session>

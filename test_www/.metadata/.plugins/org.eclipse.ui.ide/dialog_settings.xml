@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="T:\web_student"/>
+			<item value="T:\test_www\web_student_thamkhao"/>
+			<item value="T:\test_www\ThucHanh"/>
+			<item value="T:\test_www\TranHoangLong"/>
+			<item value="T:\21084551_NguyenHoangPhuc"/>
+			<item value="C:\Users\Student\Desktop\web_student"/>
+			<item value="C:\Users\Student\Downloads\demoStudent"/>
+			<item value="C:\Users\Student\Downloads\DemoChuong2"/>
+		</list>
+	</section>
+</section>

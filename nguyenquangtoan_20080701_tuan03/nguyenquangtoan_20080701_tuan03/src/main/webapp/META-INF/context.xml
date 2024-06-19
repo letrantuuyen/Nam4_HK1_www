@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource name="WebStudentTrackerUpgrade" username="sa2"
+	 auth="Container" type = "javax.sql.DataSource"
+		password="1009"
+		url="jdbc:sqlserver://localhost:1433;databasename=WebStudentTrackerUpgrade;trustservercertificate=true"
+		driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+</Context>

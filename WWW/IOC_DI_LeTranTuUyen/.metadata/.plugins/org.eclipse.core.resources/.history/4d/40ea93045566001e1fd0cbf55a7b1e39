@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+https://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="s1" class="com.iuh.fit.di.Student">
+		<constructor-arg value="1101" />
+		<constructor-arg value="Thu" />
+		<constructor-arg value="Ha" />
+		<constructor-arg value="dtthuha@gmail.com" />
+	</bean>
+	<bean id="a1" class="com.iuh.fit.di.Address">
+		<constructor-arg value="HCMCity"></constructor-arg>
+		<constructor-arg value="HCM"></constructor-arg>
+		<constructor-arg value="Viet Nam"></constructor-arg>
+	</bean>
+	<bean id="e" class="com.iuh.fit.di.Employee">
+		<constructor-arg value="12" type="int"></constructor-arg>
+		<constructor-arg value="Thu Ha"></constructor-arg>
+		<constructor-arg>
+			<ref bean="a1" />
+		</constructor-arg>
+	</bean>
+</beans>
